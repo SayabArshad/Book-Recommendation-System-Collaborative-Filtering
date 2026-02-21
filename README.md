@@ -48,9 +48,9 @@ You'll see the sample dataset, the user similarity matrix, and the top book reco
 ## 📁 Project Structure
 ```
 Book-Recommendation-System-Collaborative-Filtering/
-│-- Book Recommendation System using collaborative filtering.py   # Main script
-│-- README.md                                                      # Documentation
-│-- assets/                                                        # Images for README
+│-- Book Recommendation System using collaborative filtering.py   
+│-- README.md                                                      
+│-- assets/                                                        
 │    ├── code.JPG
 │    └── output.JPG
 ```
@@ -58,8 +58,9 @@ Book-Recommendation-System-Collaborative-Filtering/
 
 ## 🖼️ Interface Previews
 
-📝 Code Snippet	📊 Console Output
-(https://assets/code.JPG)	(https://assets/output.JPG)
+| 📝 Code Snippet | 📊 Console Output |
+|:---------------:|:-----------------:|
+| ![Code Snippet](assets/code.JPG) | ![Output](assets/output.JPG) |
 
 ---
 
@@ -72,7 +73,9 @@ This project demonstrates the core idea behind collaborative filtering – a tec
 ## 🧑‍💻 Author
 
 **Developed by:** [Sayab Arshad Soduzai](https://github.com/SayabArshad)  👨‍💻
+
 📅 **Version:** 1.0.0
+
 📜 **License:**  MIT License
 
 ---
