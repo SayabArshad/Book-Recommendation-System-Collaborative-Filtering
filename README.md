@@ -27,43 +27,55 @@
 ---
 
 ## 📦 Installation  
-
+---
 1. Clone the repository:
-   
+```bash
    git clone https://github.com/yourusername/Book-Recommendation-System-Collaborative-Filtering.git
    cd Book-Recommendation-System-Collaborative-Filtering
-   
-2. Install dependencies:
-
+  ```` 
+3. Install dependencies:
+```bash
 pip install pandas scikit-learn
-
+````
 ## ▶️ Usage
 Run the main script:
 
-bash
+```bash
 python "Book Recommendation System using collaborative filtering.py"
+```
 You'll see the sample dataset, the user similarity matrix, and the top book recommendations for a specific user (default: User 1).
-
+---
 ## 📁 Project Structure
-text
+```
 Book-Recommendation-System-Collaborative-Filtering/
 │-- Book Recommendation System using collaborative filtering.py   # Main script
 │-- README.md                                                      # Documentation
 │-- assets/                                                        # Images for README
 │    ├── code.JPG
 │    └── output.JPG
+```
+---
 
 ## 🖼️ Interface Previews
+
 📝 Code Snippet	📊 Console Output
 https://assets/code.JPG	https://assets/output.JPG
 
+---
+
 ## 💡 About the Project
+
 This project demonstrates the core idea behind collaborative filtering – a technique widely used in modern recommendation systems (like Netflix or Amazon). It builds a user-item matrix from rating data, computes user similarities, and generates personalized recommendations. The simple implementation makes it ideal for learning and experimentation.
 
+---
+
 ## 🧑‍💻 Author
-Developed by: [Sayab Arshad Soduzai](https://github.com/SayabArshad)  👨‍💻
-📅 Version: 1.0.0
-📜 License: MIT License
+
+**Developed by:** [Sayab Arshad Soduzai](https://github.com/SayabArshad)  👨‍💻
+📅 **Version:** 1.0.0
+📜 **License:**  MIT License
+
+---
 
 ## ⭐ Contributions
 Contributions are welcome! Feel free to fork the repository, open issues, or submit pull requests to enhance functionality (e.g., adding more similarity metrics, incorporating item-based filtering, or using real-world datasets).
