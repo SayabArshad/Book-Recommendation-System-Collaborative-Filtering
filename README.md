@@ -59,7 +59,7 @@ Book-Recommendation-System-Collaborative-Filtering/
 ## 🖼️ Interface Previews
 
 📝 Code Snippet	📊 Console Output
-assets/code.JPG	assets/output.JPG
+(https://assets/code.JPG)	(https://assets/output.JPG)
 
 ---
 
